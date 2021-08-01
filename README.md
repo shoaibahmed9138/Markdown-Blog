@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to markdown-blog 👋</h1>
+<h1 align="center">Welcome to Markdown-Blog 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -6,7 +6,22 @@
   </a>
 </p>
 
-## Install
+## ✨ About
+
+<p> This is Markdown Blog which is basically a CRUD app built using node.js and mongoDB (for DB).<br>
+  The EJS view engine is used. Basic Blog App functionalites like the following are implemented
+<ul>
+  <li>Creating a Blog</li>
+  <li>Editing a Blog</li>
+  <li>Deleting a Blog</li>
+  <li>Viewing a Blog</li>
+</ul>
+</p>
+
+## 🚀 Usage
+
+<p>Make sure you have npm installed<br>
+Just run the following command at the root of your project</p>
 
 ```sh
 npm install
@@ -16,5 +31,3 @@ npm install
 
 Give a ⭐️ if this project helped you!
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
