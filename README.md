@@ -41,7 +41,11 @@ localhost:5000
 
 ```
 
-## Show your support
+## 🖼 Screenshots
 
-Give a ⭐️ if this project helped you!
+![1](https://user-images.githubusercontent.com/66957744/127853342-89a8eea4-c4b8-4c28-8a2e-86f2f7270765.jpg)
+
+![3](https://user-images.githubusercontent.com/66957744/127853378-5fdd24dd-6e20-41fc-b13a-a1fe7a0d6788.jpg)
+
+![2](https://user-images.githubusercontent.com/66957744/127853365-babe78c8-e313-42ff-9e27-f82360af5ce0.jpg)
 
