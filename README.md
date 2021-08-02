@@ -20,11 +20,13 @@
 
 ## 🚀 Usage
 
-<p>Make sure you have npm installed<br>
-Just run the following command at the root of your project</p>
+<p>Make sure you have npm and mongoDB installed<br>
+Just run the following commands at the root of the project</p>
 
 ```sh
 npm install
+
+devStart
 ```
 
 ## Show your support
