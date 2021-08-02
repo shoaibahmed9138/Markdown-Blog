@@ -33,7 +33,7 @@ npm install
 devStart
 
 ```
-<p>This command initialized the node server at localhost:5000</p>
+<p>This command initializes the node server at localhost:5000</p>
 <p>Enter the following URL in your browser to run the project </p>
 
 ```sh
