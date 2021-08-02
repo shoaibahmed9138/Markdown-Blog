@@ -35,6 +35,7 @@ devStart
 ```
 <p>This command initialized the node server at localhost:5000</p>
 <p>Enter the following URL in your browser to run the project </p>
+
 ```sh
 localhost:5000
 
