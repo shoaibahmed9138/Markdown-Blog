@@ -30,7 +30,7 @@ npm install
 <p>This should install all the required dependancies</p>
 
 ```sh
-devStart
+node server.js
 
 ```
 <p>This command initializes the node server at localhost:5000</p>
